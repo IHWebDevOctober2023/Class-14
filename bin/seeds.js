@@ -1,9 +1,11 @@
+// The porpouse of this file is to seed the database with some initial data
+
 const mongoose = require("mongoose");
 const User = require("../models/User.model");
-const Post = require("../models/Post.model");
 const usersArray = require("./users.json")
 
-require("dotenv").config();
+// we need to add the path to the .env file where the MONGO_DB_URI is saved
+require("dotenv").config({path: "../.env"});
 const mongo_uri = process.env.MONGO_DB_URI
 
 mongoose.connect(mongo_uri)
