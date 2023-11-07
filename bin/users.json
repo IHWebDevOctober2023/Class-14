@@ -1,0 +1,82 @@
+[
+    {
+        "username": "Joan García",
+        "email": "joangarcia123@example.com"
+    },
+    {
+        "username": "Anna López",
+        "email": "annalopez456@example.com"
+    },
+    {
+        "username": "Marta Sánchez",
+        "email": "martasanchez789@example.com"
+    },
+    {
+        "username": "Pau Torres",
+        "email": "pautorres101@example.com"
+    },
+    {
+        "username": "Carla Molina",
+        "email": "carlamolina202@example.com"
+    },
+    {
+        "username": "Pol Martínez",
+        "email": "polmartinez303@example.com"
+    },
+    {
+        "username": "Laia Vidal",
+        "email": "laiavidal404@example.com"
+    },
+    {
+        "username": "Oriol Fernández",
+        "email": "oriolfernandez505@example.com"
+    },
+    {
+        "username": "Anna García",
+        "email": "annagarcia606@example.com"
+    },
+    {
+        "username": "Pau López",
+        "email": "paulopez707@example.com"
+    },
+    {
+        "username": "Marta Molina",
+        "email": "martamolina808@example.com"
+    },
+    {
+        "username": "Joan Torres",
+        "email": "joantorres909@example.com"
+    },
+    {
+        "username": "Carla García",
+        "email": "carlagarcia010@example.com"
+    },
+    {
+        "username": "Oriol Sánchez",
+        "email": "oriolsanchez111@example.com"
+    },
+    {
+        "username": "Laia Martínez",
+        "email": "laiamartinez212@example.com"
+    },
+    {
+        "username": "Pol Vidal",
+        "email": "polvidal313@example.com"
+    },
+    {
+        "username": "Anna Fernández",
+        "email": "annafernandez414@example.com"
+    },
+    {
+        "username": "Joan Molina",
+        "email": "joanmolina515@example.com"
+    },
+    {
+        "username": "Marta Vidal",
+        "email": "martavidal616@example.com"
+    },
+    {
+        "username": "Carla Martínez",
+        "email": "carlamartinez717@example.com"
+    }
+]
